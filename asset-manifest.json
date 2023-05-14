@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AmanRawat33/dweepReact/static/css/main.0244b9c8.css",
+    "main.js": "/AmanRawat33/dweepReact/static/js/main.f3ebbc8f.js",
+    "static/media/mainContentRightImage.png": "/AmanRawat33/dweepReact/static/media/mainContentRightImage.2815a3c6be62c372eb77.png",
+    "index.html": "/AmanRawat33/dweepReact/index.html",
+    "main.0244b9c8.css.map": "/AmanRawat33/dweepReact/static/css/main.0244b9c8.css.map",
+    "main.f3ebbc8f.js.map": "/AmanRawat33/dweepReact/static/js/main.f3ebbc8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0244b9c8.css",
+    "static/js/main.f3ebbc8f.js"
+  ]
+}
